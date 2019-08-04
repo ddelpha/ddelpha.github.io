@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#weddingPhotoOne {
+height: 500px;
+width: 500px;
+transform: rotate(180deg);
+border-radius: 100px;
+}
+#weddingPhotoTwo {
+height: 500px;
+width: 500px;
+border-radius: 100px;
+}
+
+.carousel-control-prev {
+padding: auto;
+}
+.carousel-control-next {
+    padding: auto;
+}
+
+#weddingPhotoThree {
+height: 500px;
+width: 500px;
+transform: rotate(180deg);
+border-radius: 100px;
+}
+.whatToWear, p {
+text-align: center;
+background-color: goldenrod;
+color: white;
+border: 10px solid white;
+padding:auto;
+border-radius: 50px;
+
+}
+.jumbotron, .display-3, .lead, .my-2, .p {
+margin-left: 10%;
+margin-right: 10%;
+font-family: cursive;
+background-color: goldenrod;
+color: white;
+border: solid; white;
+border-radius: 50px;
+padding: auto;
+
+
+}
+p {
+    padding:auto;
+}
+
+.carousel-item {
+margin-left: 35%;
+margin-right: 35%;
+}
+.list-group {
+align-items: center;
+background-color: goldenrod;
+color: whitecolor;
+border: 10px solid white;
+padding:auto;
+border-radius: 50px;
+}
+.whereToStay {
+text-align: center;
+background-color: goldenrod;
+color: white;
+padding: auto;
+border: 10px solid white;
+border-radius: 50px;
